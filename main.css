@@ -2,7 +2,7 @@
 body {
   font-family: Roboto, sans-serif;
   background: url(./fon_sayta.jpg);
-  
+  background-size:cover;
 }
 
 .container {
